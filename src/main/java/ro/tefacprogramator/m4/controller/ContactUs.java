@@ -6,4 +6,7 @@ public class ContactUs {
         return "contact us";
     }
 
+    public String form() {
+        return "First name, last name";
+    }
 }
