@@ -13,5 +13,8 @@ public class Application {
 
         int rezDiv = Calculator.substract(100, 45);
         System.out.println("rez divide = " + rezDiv);
+
+        int rezMul = Calculator.substract(100, 45);
+        System.out.println("rez multiply = " + rezMul);
     }
 }
